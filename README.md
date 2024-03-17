@@ -5,7 +5,7 @@ https://github.com/FullPersonDev/ecommerce
 
 
 ## Walkthrough video Link
-https://drive.google.com/file/d/1ObHB8uBs2EKwfcpQcK56Q6-LrxKe4mdv/view
+https://drive.google.com/file/d/19xPQ8deSk2UuMrKhC549VnRADfvgJtz1/view
 
 ## Instructions - To start application
 - Source Schema: Go to db directory and open in integrated terminal. Login to your mysql. Once in mysql, type: Source schema.sql
